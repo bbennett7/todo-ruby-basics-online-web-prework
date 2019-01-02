@@ -3,11 +3,11 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  value
+  puts "{value}"
 end
 
 def argue (phrase)
-  phrase
+  puts "#{phrase}"
 end
 
 def greeting
